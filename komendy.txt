@@ -1,0 +1,17 @@
+
+html-validate
+
+
+<p>
+  <button>Click me!</button>
+  <div id="show-me">
+    Lorem ipsum
+  </div>
+</p>
+  1:1  error  Element <p> is implicitly closed by adjacent <div>  no-implicit-close
+  2:2  error  Button is missing type attribute                    button-type
+  6:4  error  Unexpected close-tag, expected opening tag          close-order
+
+
+
+
